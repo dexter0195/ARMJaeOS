@@ -16,8 +16,8 @@ Members
 ----------
  - Carlo De Pieri carlo.depieri@studio.unibo.it
  - Alessio Koci alessio.koci@studio.unibo.it
- - Gianmaria Pedrini [me] gianmaria.pedrini@studio.unibo.it (gianmariapedrini@gmail.com)
- - Alessio Trivisonno  alessio.trivisonno@studio.unibo.it
+ - Gianmaria Pedrini gianmaria.pedrini@studio.unibo.it (gianmariapedrini@gmail.com)
+ - Alessio Trivisonno [me] alessio.trivisonno@studio.unibo.it
 
 Usage
 --------
