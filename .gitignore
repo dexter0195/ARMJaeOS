@@ -1,0 +1,17 @@
+*~
+*/*/*.swp
+*/*/*.swo
+*.swo
+*.swp
+*.exe
+*.uarm
+*.elf
+.ycm_extra_conf.py
+.ycm_extra_conf.pyc
+.vscode
+src/include/uARMconst.h
+src/include/uARMtypes.h
+src/include/libuarm.h
+src/include/arch.h
+bin
+term0.umps

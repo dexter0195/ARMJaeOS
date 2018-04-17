@@ -1,0 +1,26 @@
+{
+    "accessible-mode": false,
+    "boot": {
+        "core-file": "bin/phase1.elf.core.uarm",
+        "load-core-file": true
+    },
+    "clock-rate": 1,
+    "devices": {
+        "terminal0": {
+            "enabled": true,
+            "file": "term0.umps"
+        }
+    },
+    "execution-rom": "/usr/include/uarm/BIOS.rom.uarm",
+    "num-processors": 1,
+    "num-ram-frames": 512,
+    "pause-on-exc": false,
+    "pause-on-tlb": false,
+    "refresh-on-pause": false,
+    "refresh-rate": 600,
+    "symbol-table": {
+        "asid": 127,
+        "file": "phase1.elf.stab.uarm"
+    },
+    "tlb-size": 16
+}
